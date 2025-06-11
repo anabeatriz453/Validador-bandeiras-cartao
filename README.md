@@ -1,18 +1,12 @@
 # 💳 Projeto DIO Validador de Bandeiras de Cartão de Crédito
 - Este projeto é um validador de bandeiras de cartão de crédito desenvolvido em JavaScript pelo GITHUB COPILOT. Ele identifica a bandeira de um cartão com base no número fornecido, utilizando regras específicas para cada bandeira.
 
-## Funcionalidades
+## 🏳 Funcionalidades
 - Identificação de Bandeiras: Determina a bandeira do cartão de crédito com base nos números iniciais.
 - Sanitização de Entrada: Remove espaços e traços do número do cartão para garantir uma validação precisa.
-- Suporte a Diversas Bandeiras:
-Visa,
-MasterCard,
-Elo,
-American Express,
-Discover e
-Hipercard
+- Suporte a Diversas Bandeiras:Visa,MasterCard,Elo,American Express,Discover e Hipercard
 
-## Regras de Validação
+## 🚩 Regras de Validação
 - As regras para identificar cada bandeira são baseadas nos números iniciais do cartão:
 
 ## Bandeira	Regra
